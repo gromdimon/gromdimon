@@ -1,2 +1,1 @@
-### Hi there 👋
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+### Hi there 👋 My name is Dima and i am a bioinformatician. 
