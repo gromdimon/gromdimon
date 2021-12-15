@@ -37,7 +37,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/gromdimon/gromdimon/blob/main/contributions.png" alt="snake"></center>
+  <img src="https://github.com/gromdimon/gromdimon/blob/main/contributions.png"></center>
 </p>
 
 <h2 align="center">
