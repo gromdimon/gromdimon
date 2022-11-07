@@ -5,6 +5,6 @@
 
 - 📝 I am pursuing degree in bioinformatics at FU-Berlin at the moment.
 
-- ⚡️ I work mainly at [CUBI](https://www.cubi.bihealth.org/).
+- ⚡️ Work at ...
 
 - 📫 You can reach me at [grom.dima.grom@gmail.com]
