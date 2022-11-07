@@ -8,4 +8,3 @@
 - ⚡️ Work at ...
 
 - 📫 You can reach me at [grom.dima.grom@gmail.com]
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gromdimon&theme=dark&show_icons=true&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
