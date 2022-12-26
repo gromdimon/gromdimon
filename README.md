@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=py,r,django,docker,linux,bash,git,github&perline=16" alt="Tech Stack" /> </p>
 
-- 📝 I am pursuing degree in bioinformatics at [FU-Berlin](https://www.fu-berlin.de/) at the moment.
+- 📝 I am pursuing degree in bioinformatics at [FU-Berlin](https://www.fu-berlin.de/) at the moment
 
 - ⚡️ Work at [CUBI](https://www.cubi.bihealth.org/)
 
