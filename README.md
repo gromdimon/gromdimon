@@ -9,4 +9,4 @@
 
 - ⚡️ Work at [CUBI](https://www.cubi.bihealth.org/)
 
-- 📫 You can reach me at grom.dima.grom@gmail.com
+- 📫 And do not hesitate to contact me
