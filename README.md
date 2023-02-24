@@ -1,4 +1,4 @@
-<h1 align="center">You are on the profile of Dzmitry Hramyka🏻</h1>
+<h1 align="center">You are on the profile of Dzmitry Hramyka</h1>
 <h3 align="center">Science => Bioinformatics <= Tech</h3>
   <hr>
   <h3 align="left">Software stack:</h3>
