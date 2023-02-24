@@ -1,11 +1,12 @@
-<h1 align="center">Hi there, 👋🏻</h1>
-<h2 align="center">I am Dzmitry Hramyka and here 👇🏻 is something about me</h2>
+<h1 align="center">You are on the profile of Dzmitry Hramyka🏻</h1>
 <h3 align="center">Science => Bioinformatics <= Tech</h3>
-  <h3 align="center">My stack:</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=py,js,r,haskell,django,fastapi,flask,jquery,postgres,docker&perline=10" alt="Tech Stack" /> </p>
-
-<p align="center"><img src="https://skillicons.dev/icons?i=linux,bash,git,github,md&perline=10" alt="Tech Stack" /> </p>
-
+  <hr>
+  <h3 align="left">Software stack:</h3>
+<p2 align="center"><img src="https://skillicons.dev/icons?i=py,js,django,jquery,postgres&perline=6" alt="Tech Stack" /> </p2>
+  <h3 align="left">Knowledge:</h3>
+<p2 align="center"><img src="https://skillicons.dev/icons?i=r,haskell,postman,fastapi,flask,html,css,mysql,bash,git,github,linux,selenium,docker,md&perline=20" alt="Tech Stack" /> </p2>
+<hr>
+  
 - 📝 I am pursuing degree in bioinformatics at [FU-Berlin](https://www.fu-berlin.de/) at the moment
 
 - ⚡️ Work at [CUBI](https://www.cubi.bihealth.org/)
