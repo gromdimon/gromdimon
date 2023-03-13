@@ -1,5 +1,5 @@
-<h1 class="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Dzima</h1>
-<h3 class="center">Science =&gt; Bioinformatics &lt;= Tech</h3>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Dzima</h1>
+<h3 align="center">Science =&gt; Bioinformatics &lt;= Tech</h3>
 <hr>
 
 <ul>
@@ -7,6 +7,8 @@
   <li>Work at <a href="https://www.cubi.bihealth.org/">CUBI</a></li>
   <li>And I am open to conversation</li>
 </ul>
+
+<hr>
 
 <h3 class="left">Software stack:</h3>
 <div class="center">
