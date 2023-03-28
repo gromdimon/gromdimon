@@ -5,10 +5,10 @@
 <ul>
   <li>I am pursuing degree in bioinformatics at <a href="https://www.fu-berlin.de/">FU-Berlin</a> at the moment</li>
   <li>Work at <a href="https://www.cubi.bihealth.org/">CUBI</a></li>
-  <li>And I am open to conversation</li>
+  <li>And I am open to conversations</li>
 </ul>
 
-<hr>
+<!-- <hr>
 
 <h3 class="left">Software stack:</h3>
 <div class="center">
@@ -30,3 +30,4 @@
     <img src="https://skillicons.dev/icons?i=r,haskell,fastapi,linux,docker,mysql,bash,selenium,postman&perline=20" alt="Tech Stack" />
   </div>
 </details>
+ -->
