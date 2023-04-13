@@ -5,7 +5,7 @@
 <ul>
   <li>I am pursuing degree in bioinformatics at <a href="https://www.fu-berlin.de/">FU-Berlin</a> at the moment</li>
   <li>Work at <a href="https://www.cubi.bihealth.org/">CUBI</a></li>
-  <li>And I am open to new things!</li>
+  <li>And I am open to anything new!</li>
 </ul>
 
 <!-- <hr>
