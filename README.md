@@ -1,2 +1,2 @@
 ### Hi there 👋
-I am a hardworking peacefull human being. Commiting and contributing as Software Developer and playing around ML.
+I am a hardworking peacefull human being. Do Software and sometimes play around ML.
