@@ -1,2 +1,2 @@
 ### Hi there 👋
-I am a hardworking peacefull human being. Do Software and sometimes play around ML.
+I am a hardworking peacefull human being. Make Software and sometimes play around ML.
