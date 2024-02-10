@@ -6,4 +6,4 @@ I am a hardworking peacefull human being. Building Software & AI 👾
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gromdimon&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gromdimon&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gromdimon&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gromdimon&theme=github) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gromdimon&theme=github) 
