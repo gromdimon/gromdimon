@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am a hardworking peacefull human being. Building Software & AI 👾
 
+For more information about me - visit [gromdimon.github.io](https://gromdimon.github.io/)
+
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gromdimon&count_private=true&show_icons=true&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gromdimon&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gromdimon&theme=github)
