@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 I am a hardworking peacefull human being. Building Software and AI 👾
 
 For more information about me - visit [gromdimon.github.io](https://gromdimon.github.io/)
