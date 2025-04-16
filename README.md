@@ -1,8 +1,10 @@
-### Hi there 👋
+### gm
 
-I am a hardworking peacefull human being. Building Software and AI 👾
+I am a hardworking peacefull human being.
 
-For more information about me - visit [gromdimon.github.io](https://gromdimon.github.io/)
+Solving problems by creating software
+
+More info -> [gromdimon](https://gromdimon.github.io/)
 
 <!-- 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gromdimon&count_private=true&show_icons=true&theme=onedark)
