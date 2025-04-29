@@ -1,6 +1,6 @@
 ### gm
 
-I am a hardworking peacefull human being.
+I am a hardworking peacefull human being
 
 Solving problems by creating software
 
