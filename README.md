@@ -1,4 +1,4 @@
-### Hello
+### gm
 
 I am a hardworking (💪) peacefull (✌️) human being (🧬)
 
