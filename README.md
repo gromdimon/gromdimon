@@ -1,8 +1,10 @@
 ### gm
 
-I am a hardworking (💪) peacefull (✌️) human being (🧬)
+I am a hardworking peacefull human being
 
 Solving real world problems by creating software
+
+Building AGI agents
 
 More about me -> [gromdimon.pro](https://gromdimon.pro)
 
