@@ -6,6 +6,6 @@
 
 / Building AGI agents
 
-More about me -> [gromdimon](https://gromdimon.pro)
+More about me -> [gromdimon.com](https://gromdimon.com/)
 
 <!-- ![gromdimon's github stats](https://github-readme-stats.vercel.app/api?username=gromdimon&show_icons=true&theme=merko) -->
