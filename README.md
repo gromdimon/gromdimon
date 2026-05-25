@@ -9,5 +9,3 @@
 more about me -> [gromdimon.com](https://gromdimon.com/)
 
 more about businesses -> [Axioma AI](https://axioma-ai.com) | [Neurobro](https://neurobro.ai)
-
-<!-- ![gromdimon's github stats](https://github-readme-stats.vercel.app/api?username=gromdimon&show_icons=true&theme=merko) -->
